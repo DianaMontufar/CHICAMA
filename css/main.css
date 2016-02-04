@@ -1,0 +1,49 @@
+header{
+	background-image: url("../img/grupal.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-align: center;
+}
+header nav, .imggrupal img, .sumate{
+	display: inline-block;
+}
+.link a{
+	text-decoration: none;
+	color: black;
+	
+}
+.imggrupal{
+	padding-top: 30px;
+	padding-bottom: 50%;
+}
+.sumate{
+	padding: 10px;
+	background: #FCB739;
+	padding:10px;
+	display: inline-block;
+}
+header a{
+	text-decoration: none;
+	color: black;
+}
+header img{
+	width: 100%;
+}
+section img{
+	width: 100%;
+}
+section{
+	margin:50px 120px;
+}
+footer{
+	background-color: #444444;
+	padding-left: 120px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.foot p{
+	color: white;
+}
+hr{
+	border:1px black solid;
+}
